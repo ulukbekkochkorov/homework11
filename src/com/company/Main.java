@@ -11,5 +11,6 @@ public class Main {
     int i = (p*(p-a)*(p-b)*(p-c));
      double squer = Math.sqrt(i);
         System.out.println(squer);
+
     }
 }
